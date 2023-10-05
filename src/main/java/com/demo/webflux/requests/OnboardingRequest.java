@@ -1,4 +1,4 @@
-package com.airtelbank.webflux.requests;
+package com.demo.webflux.requests;
 
 import lombok.Data;
 

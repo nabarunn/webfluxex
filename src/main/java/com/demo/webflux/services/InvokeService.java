@@ -1,6 +1,6 @@
-package com.airtelbank.webflux.services;
+package com.demo.webflux.services;
 
-import com.airtelbank.webflux.responses.external.OnboardingServiceResponse;
+import com.demo.webflux.responses.external.OnboardingServiceResponse;
 import reactor.core.publisher.Mono;
 
 public interface InvokeService {

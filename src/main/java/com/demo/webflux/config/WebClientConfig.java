@@ -1,4 +1,4 @@
-package com.airtelbank.webflux.config;
+package com.demo.webflux.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

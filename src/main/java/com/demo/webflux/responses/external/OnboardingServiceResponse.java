@@ -1,4 +1,4 @@
-package com.airtelbank.webflux.responses.external;
+package com.demo.webflux.responses.external;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

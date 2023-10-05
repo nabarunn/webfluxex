@@ -1,7 +1,7 @@
-package com.airtelbank.webflux.services.impl;
+package com.demo.webflux.services.impl;
 
-import com.airtelbank.webflux.responses.external.OnboardingServiceResponse;
-import com.airtelbank.webflux.services.InvokeService;
+import com.demo.webflux.responses.external.OnboardingServiceResponse;
+import com.demo.webflux.services.InvokeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Service;
