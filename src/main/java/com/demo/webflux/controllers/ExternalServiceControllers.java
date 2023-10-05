@@ -11,7 +11,7 @@ import reactor.core.scheduler.Schedulers;
 
 
 @RestController
-@RequestMapping("/ncmc")
+@RequestMapping("/webflux")
 @Slf4j
 public class ExternalServiceControllers {
 
